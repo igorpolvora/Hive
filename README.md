@@ -1,7 +1,5 @@
 # 🐝 Hive
 
----
-
 ## 📌 Project Overview
 
 **Hive** is a Java console-based application developed to practice and reinforce Object-Oriented Programming (OOP) principles and structured application design.
