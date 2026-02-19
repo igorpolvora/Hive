@@ -29,7 +29,10 @@ Hive/
 │   ├── application/
 │   │   └── Program.java
 │   ├── entities/
-│   └── enums/ (if applicable)
+│   │     └── Deparment.java
+│   │     └── HourContract.java
+│   │     └── Worker.java
+│   └── enums/
 ├── README.md
 └── .gitignore
 
@@ -41,7 +44,7 @@ Responsible for program execution and user interaction.
 ### 📦 entities
 Contains the domain model and business logic.
 
-### 📦 enums (if present)
+### 📦 enums
 Defines controlled constant states used by the system.
 
 ---
